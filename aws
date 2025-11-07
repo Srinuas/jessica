@@ -1,3 +1,7 @@
 aws file line 1 added
+<<<<<<< Updated upstream
 aws file line 2 and 3
 added
+=======
+aws file line 2 added
+>>>>>>> Stashed changes
